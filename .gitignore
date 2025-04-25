@@ -1,0 +1,18 @@
+# Ignore build artifacts
+*.o
+*.out
+*.exe
+*.log
+
+# Ignore the compiled executable
+conv
+
+# Ignore test outputs
+examples/output*.txt
+
+# VSCode / Editor stuff (optional)
+.vscode/
+*.code-workspace
+
+# macOS stuff (just in case)
+.DS_Store
