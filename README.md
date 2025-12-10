@@ -14,6 +14,10 @@
 
 **bmp2ascii** – a small command‑line tool in C that converts 24‑bit BMP images into ASCII art, viewable directly in the terminal.
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Language: C](https://img.shields.io/badge/Language-C-blue.svg)
+![Build: Passing](https://img.shields.io/badge/Build-Passing-brightgreen.svg)
+
 ## Overview
 
 This project reads BMP (bitmap) image files, processes their pixel data (with gamma correction and aspect‑ratio adjustments), and outputs a text-based ASCII‑art representation.  
@@ -86,7 +90,6 @@ Translating pixel-based image data into character-based output — mapping lumin
 Writing a reusable CLI tool with clear build and usage instructions.
 
 Practicing clean project structure and documentation for better readability and usability.
-
 
 
 ## License
