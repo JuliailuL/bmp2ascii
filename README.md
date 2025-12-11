@@ -71,6 +71,10 @@ make
 ```
 
 
+### Example
+![Sample ASCII output](examples/snail_output.png)
+
+
 ## Testing
 To run all example conversions and generate ASCII outputs automatically:
 ```bash
